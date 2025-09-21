@@ -47,7 +47,7 @@ Monocular 3D object detection holds great promise but remains fundamentally chal
 
 ~~~
 CUDA_VISIBLE_DEVICES=0,1,2,3 python tools/train_val.py --config configs/monoafkd.yaml
-The pretrained teacher and student model can get from here[https://pan.baidu.com/s/1ZR0PbZPF1B5SZBfoQWYgkA]
+The pretrained teacher and student model can get from [here](https://pan.baidu.com/s/1ZR0PbZPF1B5SZBfoQWYgkA) 提取码: s7v6 
 ~~~
 
 #### Test and evaluate
